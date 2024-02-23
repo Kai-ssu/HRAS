@@ -14,11 +14,15 @@ Should be installed to run the program:
 3. matplotlib
 
 If you haven't installed any:
-'''
+
+
 `pip install numpy pandas matplotlib`
-'''
+
+
 ## Run the program
 Open command prompt/terminal to the 'HRAS' directory and run:
-'''
+
+
 `python HRAS.py`
-'''
+
+

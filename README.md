@@ -30,13 +30,17 @@ Open command prompt/terminal to the 'HRAS' directory and run:
 `python HRAS.py`
 
 
-#### Sample images when using the program
+#### Sample images and generated charts when using the program
 
-![sample](https://github.com/Kai-ssu/HRAS/assets/61688797/026ef62e-aeb2-4d95-bc28-9ef7c0589a30)
+**[Pie chart, sorted by Barangays]**
 
-Sample generated charts:
+![image](https://github.com/Kai-ssu/HRAS/assets/61688797/a5fa136a-5382-452f-9a12-795c7f2168dc)
+![image](https://github.com/Kai-ssu/HRAS/assets/61688797/aa0ad0f8-3bbb-4c8e-82a9-b6244823bec3)
 
-![trabaho](https://github.com/Kai-ssu/HRAS/assets/61688797/b0ffad0a-aef2-40b0-87a8-3ea1b8f11342)
 
-![household-relief](https://github.com/Kai-ssu/HRAS/assets/61688797/2b527801-5274-4c55-a99d-a5492a149d6a)
+**[Categorical variables, sorted by the daily expenses per Barangay]**
+
+![image](https://github.com/Kai-ssu/HRAS/assets/61688797/c95a1285-9d01-4ab6-8bc6-94405ac7df61)
+![image](https://github.com/Kai-ssu/HRAS/assets/61688797/a0a9d300-6e25-492e-96e9-1dd67e971b50)
+
 

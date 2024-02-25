@@ -40,7 +40,7 @@ Open command prompt/terminal to the 'HRAS' directory and run:
 
 **[Categorical variables, sorted by the daily expenses per Barangay]**
 
-![image](https://github.com/Kai-ssu/HRAS/assets/61688797/c95a1285-9d01-4ab6-8bc6-94405ac7df61)
+![image](https://github.com/Kai-ssu/HRAS/assets/61688797/cac0d7d1-b818-4eaa-984f-1cc8b13c0417)
 ![image](https://github.com/Kai-ssu/HRAS/assets/61688797/a0a9d300-6e25-492e-96e9-1dd67e971b50)
 
 
